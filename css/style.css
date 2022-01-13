@@ -1,0 +1,10 @@
+header {
+    background-color:dodgerblue;
+    background-image: url('../img/pattern.png');
+}
+
+
+#logo {
+    height: 80px;
+    margin-top: 90px;
+}
