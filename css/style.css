@@ -57,6 +57,10 @@ thead {
     margin-top: 90px;
 }
 
+#article-title {
+    margin-bottom: 2em;
+}
+
 #title {
     font-size: 32px;
     font-weight: 900;
