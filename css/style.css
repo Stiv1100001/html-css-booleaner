@@ -3,8 +3,30 @@ header {
     background-image: url('../img/pattern.png');
 }
 
+.link {
+    color: rgb(121, 203, 239);
+}
+
+.gray-text {
+    color: rgb(133, 133, 133);
+}
+
+.no-margin-x {
+    margin-top: 0;
+    margin-bottom: 0;
+}
 
 #logo {
     height: 80px;
     margin-top: 90px;
+}
+
+#title {
+    font-size: 32px;
+    font-weight: 900;
+    margin-bottom: 0;
+}
+
+#author {
+    font-size: 18px;
 }
