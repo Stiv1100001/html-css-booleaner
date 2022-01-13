@@ -3,8 +3,29 @@ header {
     background-image: url('../img/pattern.png');
 }
 
+table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+}
+
+thead {
+    background-color: rgb(32, 169, 229);
+    color: white;
+    text-align: left;
+}
+
 .link {
     color: rgb(121, 203, 239);
+}
+
+.highlighted {
+    /* Potevo usare anche <mark> */
+    background-color: #FFFF00;
+}
+
+.table-bg-cyan {
+    background-color: rgb(177, 229, 242);
 }
 
 .gray-text {
