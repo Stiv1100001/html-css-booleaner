@@ -37,6 +37,21 @@ thead {
     margin-bottom: 0;
 }
 
+.img-container {
+    height: 150px;
+    width: 200px;
+    margin-bottom: 10px;
+
+    padding: 10px;
+
+    background-size: cover;
+
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
 #logo {
     height: 80px;
     margin-top: 90px;
@@ -54,4 +69,13 @@ thead {
 
 #sources {
     font-size: 12px;
+}
+
+#img-1 {
+    background-image: url('../img/monitor.jpg');
+}
+
+#img-2 {
+    background-image: url('../img/graph.jpg');
+
 }
